@@ -1,4 +1,4 @@
-# 提取当前光猫的配置文件获取宽带账号密码和LOID
+# 提取当前光猫的配置文件获取宽带账号密码和LOID以及VLAN ID
 
 如果你之前有备份的话可以忽略这一步骤直接跳到[将运营商定制界面删除恢复为华为原版界面](recovery-huawei-ui.md)
 
@@ -24,7 +24,7 @@
 
 打开"mycfg.xml"
 
-使用你的文本编辑器搜索 `WANPPPConnectionInstance`
+使用你的文本编辑器搜索 `WANPPPConnectionInstance` （应该会有两个`WANPPPConnectionInstance`配置，找到带`Username`和`Password`的那个就行了）
 
 ![](img/username-and-password.png)
 
@@ -33,6 +33,12 @@
 <img src="img/decrypt.jpg" width=500px>
 
 将整串文字复制到密文解密的框中解密即可
+
+## 获取VLAN ID
+
+在有宽带账号密码的`WANPPPConnectionInstance` 前三行的`X_HW_WANUpLinkConfig`就能看到了
+
+![](img/vlan-id.png)
 
 ## 获取LOID
 
