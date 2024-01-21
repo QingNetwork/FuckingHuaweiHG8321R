@@ -75,3 +75,9 @@
 2. [使用使能打开Telnet](enable-telnet.md)
 3. [提取当前光猫的配置文件获取宽带账号密码和LOID以及VLAN ID（很重要！！！）](get-cfg.md)
 4. [将运营商定制界面删除恢复为华为原版界面（相当于重置光猫）](recovery-huawei-ui.md)
+
+
+
+# 感谢
+
+[联通光纤猫恢复华为界面的终极教程](https://www.mmuaa.com/post/109b9350bf78a405.html)
