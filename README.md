@@ -2,11 +2,13 @@
 
 通过**使能**破解华为HG8321R光猫打开Telnet突破超管限制。
 
-**本教程以及其包含的固件、工具所有人可免费下载，完全开源，开源协议遵照“[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)”，  **
+**本教程以及其包含的固件、工具所有人可免费下载，完全开源，开源协议遵照 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)**
+
+其意思为“知识共享-署名-非商业性-相同方式共享，即此教程共享，转发**必须注明作者本人**-**不允许以各种方法拿此教程获利**
+
+此共享协议对**中国大陆**有效，受**中国法律**保护！用本教程获利的人，我将保留依法追责的权力！
 
 [![CC-BY-NC-SA 4.0](img/CC.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-
-**其意思为“知识共享-署名-非商业性-相同方式共享，即此教程共享，转发必须注明作者本人-不允许以各种方法拿此教程获利，此共享协议对中国大陆有效，受中国法律保护！用本教程获利的人，我将保留依法追责的权力！**
 
 ![](img/Written-By-Human-Not-By-AI-Badge-white@2x.png)
 
