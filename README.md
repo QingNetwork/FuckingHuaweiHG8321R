@@ -10,7 +10,7 @@
 
 [![CC-BY-NC-SA 4.0](img/CC.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
-![](img/Written-By-Human-Not-By-AI-Badge-white@2x.png)
+[![](img/Written-By-Human-Not-By-AI-Badge-white@2x.png)](https://notbyai.fyi/)
 
 # 前言
 
