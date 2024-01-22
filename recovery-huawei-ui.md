@@ -26,7 +26,7 @@
 
 输入你的LOID和密码（没有密码的话就空着）
 
-<img src="img/loid-input.jpg" width="500px">
+<img src="img/LOID-input.jpg" width="500px">
 
 等待 首页 > 设备信息 的 "ONT注册状态" 变成O5 就注册成功了
 
