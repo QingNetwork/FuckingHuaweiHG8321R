@@ -1,3 +1,5 @@
+![](img/cover.png)
+
 # Fucking Huawei HG8321R
 
 通过**使能**破解华为HG8321R光猫打开Telnet突破超管限制。
