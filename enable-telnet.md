@@ -16,7 +16,7 @@
 
 <img src="img/shineng4.jpg" width="500px">
 
-重启之后使用[Putty](https://www.putty.org/)连接到**192.168.1.1**
+重启之后使用[Putty](https://www.putty.org/)选择**Other:Telnet**连接到**192.168.1.1**
 
 账号是root
 
