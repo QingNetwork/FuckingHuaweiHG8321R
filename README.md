@@ -130,3 +130,7 @@
 [2879597772/ONT](https://github.com/2879597772/ONT)
 
 [联通光纤猫恢复华为界面的终极教程](https://www.mmuaa.com/post/109b9350bf78a405.html)
+
+# Stargazers over time
+[![Stargazers over time](https://starchart.cc/QingNetwork/FuckingHuaweiHG8321R.svg?variant=adaptive)](https://starchart.cc/QingNetwork/FuckingHuaweiHG8321R)
+
